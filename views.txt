@@ -1,0 +1,54 @@
+equipmentdetails
+
+SELECT `fe`.`facility` AS `facility` , `fe`.`fname` AS `fname` , `fe`.`equipment` AS `equipment` , `fe`.`equipmentname` AS `equipmentname` , `fe`.`status` AS `status` , `f`.`AutoID` AS `AutoID` , `f`.`MFLCode` AS `MFLCode` , `f`.`district` AS `district` , `f`.`typename` AS `typename` , `f`.`centralsiteAutoID` AS `centralsiteAutoID` , `f`.`distance` AS `distance` , `e`.`ID` AS `ID` , `e`.`description` AS `description` , `e`.`category` AS `category` , `d`.`name` AS `name` , `d`.`county` AS `county` , `d`.`countyname` AS `countyname`
+FROM `cd4`.`facilityequipments` `fe` , `cd4`.`facility` `f` , `cd4`.`equipments` `e` , `cd4`.`districts` `d`
+WHERE `fe`.`facility` = `f`.`AutoID`
+AND `f`.`district` = `d`.`ID`
+AND `fe`.`equipment` = `e`.`ID`
+LIMIT 0 , 30
+
+
+
+facilitycounty
+
+select `f`.`AutoID` AS `AutoID`,`f`.`MFLCode` AS `MFLCode`,`f`.`name` AS `facility`,`f`.`type` AS `type`,`f`.`typename` AS `typename`,`f`.`centralsiteAutoID` AS `centralsiteAutoID`,`f`.`level` AS `level`,`f`.`distance` AS `distance`,`f`.`flag` AS `flag`,`d`.`ID` AS `districtID`,`d`.`name` AS `district`,`c`.`ID` AS `countyID`,`c`.`name` AS `county`,`c`.`provincename` AS `provincename`,`c`.`province` AS `province`,`fe`.`ontreatment` AS `ontreatment`,`fe`.`oncare` AS `oncare`,`fe`.`asofdate` AS `asofdate` from `cd4`.`facility` `f`, `cd4`.`facilitypatients` `fe`, `cd4`.`districts` `d`, `cd4`.`countys` `c`where `f`.`district` = `d`.`ID` and `d`.`county` = `c`.`ID` and `f`.`AutoID` = `fe`.`facility` order by `f`.`AutoID`;
+
+
+equipmentwithcategory
+
+SELECT `cd4`.`facilityequipments`.`ID` AS `equip` , `cd4`.`facilityequipments`.`facility` AS `facility` , `cd4`.`facilityequipments`.`equipment` AS `equipment` , `cd4`.`facilityequipments`.`equipmentname` AS `equipmentname` , `cd4`.`facilityequipments`.`status` AS `status` , `cd4`.`facilityequipments`.`reason` AS `reason` , `cd4`.`equipments`.`ID` AS `ID` , `cd4`.`equipments`.`description` AS `description` , `cd4`.`equipments`.`category` AS `category` , `cd4`.`equipments`.`flag` AS `flag`
+FROM `cd4`.`facilityequipments`
+LEFT JOIN `cd4`.`equipments` ON `cd4`.`facilityequipments`.`equipment` = `cd4`.`equipments`.`ID`
+
+
+
+selectionview
+
+select `fc`.`AutoID` AS `AutoID`,`fc`.`MFLCode` AS `MFLCode`,`fc`.`facility` AS `facility`,`fc`.`type` AS `type`,`fc`.`typename` AS `typename`,`fc`.`centralsiteAutoID` AS `centralsiteAutoID`,`fc`.`level` AS `level`,`fc`.`distance` AS `distance`,`fc`.`districtID` AS `districtID`,`fc`.`district` AS `district`,`fc`.`countyID` AS `countyID`,`fc`.`county` AS `county`,`fc`.`provincename` AS `provincename`,`fc`.`province` AS `province`,`fc`.`ontreatment` AS `ontreatment`,`fc`.`oncare` AS `oncare`,`fc`.`asofdate` AS `asofdate`,`fe`.`equip` AS `equip`,`fe`.`equipment` AS `equipment`,`fe`.`equipmentname` AS `equipmentname`,`fe`.`status` AS `status`,`fe`.`reason` AS `reason`,`fe`.`ID` AS `ID`,`fe`.`description` AS `description`,`fe`.`category` AS `category`,`fe`.`flag` AS `flag` from `cd4`.`facilitycounty` `fc` left join `cd4`.`equipmentwithcategory` `fe` on `fc`.`AutoID` = `fe`.`facility`
+
+
+
+selects
+
+select `s`.`AutoID` AS `facility`,`s`.`MFLCode` AS `MFLCode`,`s`.`facility` AS `fname`,`s`.`type` AS `TYPE`,`s`.`distance` AS `distance`,`s`.`county` AS `county`,`s`.`countyID` AS `countyID`,((`s`.`ontreatment` * `c`.`cd4art`) + (`s`.`oncare` * `c`.`cd4preart`)) AS `need`,(((`s`.`ontreatment` * `c`.`cd4art`) + (`s`.`oncare` * `c`.`cd4preart`)) / `c`.`hoursperyear`) AS `need_per_day`,(`s`.`ontreatment` + `s`.`oncare`) AS `patients`,category from (`cd4`.`selectionview` `s` join `cd4`.`countrytestingprofile` `c`) where (`s`.`distance` > 20 OR level=0)  AND type=1
+
+
+
+selectedcounties
+
+SELECT s.need,s.need_per_day,s.facility,s.fname,s.distance,s.MFLCode,s.patients,s.countyID,((s.distance*c.patients)/250) as dist, (((((s.distance*5)/250)*.c.access)/100)+ (((need_per_day/3)*.c.patients)/100)) as rank FROM `selects` s,criteriaweighting c,countrytestingprofile d WHERE (`need_per_day` >=d.rangefrom AND `need_per_day` <=d.rangeto) GROUP BY(MFLCode) order by rank desc 
+
+
+facilitywithpatients
+
+SELECT AutoID, MFLCode, fc.facility, 
+TYPE , typename, centralsiteAutoID, 
+LEVEL , distance, districtID, district, countyID, county, provincename, province, ontreatment, oncare, asofdate, fe.equip, equipment, equipmentname, 
+STATUS , reason, ID, description, category, fe.flag
+FROM facilitycounty fc LEFT JOIN equipmentwithcategory fe
+ON fc.AutoID = fe.facility GROUP BY AutoID
+
+
+
+
+

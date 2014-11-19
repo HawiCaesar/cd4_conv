@@ -1,0 +1,383 @@
+AutoID,MFLCode,name,district,districtname,type,typename,centralsiteAutoID,centralsitename,level,distance,flag
+1200,13461,Abidha Health Center,25,Rarieda,1,MoH,1199,Madiany Sub District Hospital,1,26.1,1
+789,13468,Ahero District Hospital,69,Nyando,1,MoH,(NULL),,0,0,1
+705,0,AIDS Resource Center,36,Kisumu East,8,NGO,704,Kisumu District Hospital,1,0,1
+1235,13471,Akala Health Center,133,Siaya- Gem,1,MoH,1234,Yala Sub District Hospital,1,36,1
+1138,15792,Akichelesit Dispensary,94,Teso,1,MoH,1136,Alupe Sub District Hospital,1,0,1
+1136,15795,Alupe Sub District Hospital,94,Teso,1,MoH,(NULL),,0,0,1
+1228,13476,Ambira Sub District Hospital,133,Siaya- Ugenya,1,,0,,0,0,1
+661,13972,Amoyo Dispensary,104,Homabay- Ndhiwa,1,MoH,660,Ndhiwa Sub District Hospital,1,0,1
+592,13028,AMREF,9,Langata,8,NGO,(NULL),,0,0,1
+672,13488,Asumbi Mission Hospital,139,Homabay,2,FBO,(NULL),,0,0,1
+790,13491,Awasi Dispensary,69,Nyando,2,FBO,789,Ahero District Hospital,1,17.7,1
+1207,13492,Awendo Sub District Hospital,278,Rongo,2,,(NULL),,0,0,1
+1246,16784,Bar Ndege Health Center,133,Siaya- Alego,1,MoH,1244,Siaya District Hospital,1,0,1
+869,16667,Beacon of Hope Clinic,52,Kajiado,0,,(NULL),,0,0,1
+1001,16361,Bikeke Health Centre,112,Trans Nzoia West,0,,998,Kitale District Hospital,1,0,1
+874,14259,Bissel Health Centre,52,Kajiado,0,,873,Kajiado District Hospital,1,218,1
+282,11259,Bomu Medical Centre,76,Kilindini,0,PRI,(NULL),,0,0,1
+760,13517,Bugumbe Health Center,83,Kuria West,1,MoH,728,Migori District Hospital,1,0,1
+1054,15823,Bumala A Health Centre,196,Busia,1,MoH,1050,Busia District Hospital- AMPATH,1,50.9,1
+1055,15824,Bumala B Health Centre,196,Busia,1,MoH,1050,Busia District Hospital- AMPATH,1,50.9,1
+628,13312,Buna Sub District Hospital,32,Wajir North,1,MoH,606,Garissa Provincial General Hospital,1,560,1
+1050,15834,Busia District Hospital- AMPATH,196,Busia,1,MoH,(NULL),,0,0,1
+1056,15891,Busia Prison,196,Busia,1,MoH,1050,Busia District Hospital- AMPATH,1,1.3,1
+1057,15838,Butual Health Centre,196,Busia,1,MoH,1050,Busia District Hospital- AMPATH,1,0,1
+587,0,CDC FACES- KEMRI Nairobi,19,Dagoretti,0,,(NULL),,0,0,1
+589,0,CDC GAP,9,Langata,0,,(NULL),,0,0,1
+796,13522,Chemilil Sugar Factory Health Center,69,Nyando,6,OPI,794,Nyando District Hospital,1,32.9,1
+883,14338,Chepkemel Health Centre,75,Kericho,0,,881,Kericho District Hospital,1,0,1
+703,13528,Chulaimbo District Hospital,127,Kisumu West,1,MoH,696,New Nyanza Provincial General hospital,1,0,1
+596,13047,COGRI_LEA TOTO KARIOBANGI,9,Nairobi West- Langata,2,FBO,595,Nyumbani Children's Home,1,0,1
+598,0,COGRI_LEA TOTO KAWANGWARE,9,Nairobi West- Langata,2,FBO,595,Nyumbani Children's Home,1,0,1
+597,13048,COGRI_LEA TOTO KIBERA,9,Nairobi West- Langata,2,FBO,595,Nyumbani Children's Home,1,0,1
+599,17720,COGRI_LEA TOTO MUKURU,9,Nairobi West- Langata,2,FBO,595,Nyumbani Children's Home,1,0,1
+600,0,COGRI_LEA TOTO NYUMBANI VILLAGE KITUI,9,Nairobi West- Langata,2,FBO,595,Nyumbani Children's Home,1,0,1
+323,0,Community of St.Egidio - VCT Kyeni,125,Embu,2,FBO,321,Consolata Nkubu Hospital- Dream Kyeni,1,0,1
+483,12958,Coni Medical Centre,3,Embakasi,3,LA,476,Lunga Lunga Health Centre,1,0,1
+431,0,Consolata Mission Chuka,46,Meru South,2,FBO,430,Chuka District Hospital,1,0,1
+321,11976,Consolata Nkubu Hospital- Dream Kyeni,227,Imenti South,2,FBO,(NULL),,0,0,1
+210,0,consolata(Nyeri main Pri),23,Nyeri South,2,FBO,209,Consolata Mathari Hospital,1,0,1
+211,0,consolata(Tumaini Huruma),23,Nyeri South,2,FBO,209,Consolata Mathari Hospital,1,0,1
+614,13316,Dadaab Sub health Center,43,Ladgera,1,MoH,606,Garissa Provincial General Hospital,1,106,1
+477,12913,Dandora I Health Centre,3,Embakasi,3,LA,476,Lunga Lunga Health Centre,1,10.3,1
+478,12912,Dandora II Health Centre,3,Embakasi,3,LA,476,Lunga Lunga Health Centre,1,11.3,1
+564,0,Daughters Of Charity,13,Westlands,1,,554,National HIV Reference Lab,1,0,1
+1293,0,Diocese of Lodwar,50,Turkana Central,0,,1292,Lodwar District Hospital,1,0,1
+484,12917,Diwopa Medical Centre,3,Embakasi,3,LA,476,Lunga Lunga Health Centre,1,0,1
+353,16432,Donyo Sabuk Health Center,262,Kangundo,1,MoH,352,Kangundo District Hospital,1,36.1,1
+1238,0,Dophil Nursing & Maternity Home,133,Siaya- Gem,2,FBO,1234,Yala Sub District Hospital,1,26,1
+601,12929,Dream Centre Dispensary,9,Nairobi West- Langata,2,FBO,(NULL),,0,0,1
+467,0,Eastern Deanary Program,42,Nairobi East,2,FBO,(NULL),,0,0,1
+90,0,Ebenezer Dispensary Muranga,236,Muranga East,1,MoH,87,Muranga District Hospital,1,0,1
+471,18743,EDARP Kariobangi,15,Nairobi North,2,FBO,467,Eastern Deanary Program,1,0,1
+473,0,EDARP Kibera,9,Nairobi West,2,FBO,467,Eastern Deanary Program,1,0,1
+784,13540,Ekerenyo Health Center,188,Nyamira,1,MoH,782,Nyamira District Hospital,1,37.5,1
+972,14432,Eldama Ravine District Hosptal,120,Koibatek,0,,960,Narok District Hospital,1,60.4,1
+1064,16714,Elwangale Dispensary,119,Butere,1,MoH,1062,Butere District Hospital,1,0,1
+304,12004,Embu Provincial General Hospital,125,Embu,1,MoH,(NULL),,0,0,1
+1174,15876,Emuhaya Health Cemtre,168,Emuhaya,1,MoH,1156,Vihiga District Hopital,1,16.1,1
+331,0,Family Health Options,46,Meru South,1,MoH,330,Meru Central District Hospital,1,16,1
+697,13552,Family Health Options Kenya (FHOK),36,Kisumu East,8,NGO,696,New Nyanza Provincial General hospital,1,0,1
+888,14501,Forttenana Sub District Hospital,165,Kipkelion,0,,881,Kericho District Hospital,1,0,1
+606,13346,Garissa Provincial General Hospital,21,Garissa,1,MoH,(NULL),,0,0,1
+694,13564,Gesusu SubDistrict Hospital,219,Masaba,1,MoH,673,Kisii Level 5 Hospital,1,36.7,1
+336,12036,Giaki Health Centre,57,Imenti North,1,MoH,330,Meru Central District Hospital,1,20.8,1
+941,14511,Gilgil Regional Hospital,117,Naivasha,0,,(NULL),,0,0,1
+1003,14528,GK Prison Dispensary (Kitale),112,Trans Nzoia West,0,,998,Kitale District Hospital,1,71.9,1
+1083,15892,GK Prisons Dispensary (Kakemega Central),91,Kakemga Central,1,MoH,1080,Kakamega Provincial General Hospital,1,0,1
+945,0,Gold Star Network,7,Nakuru Central,0,,943,Nakuru Provincial General Hospital,1,0,1
+639,13588,Got Agulu Health Center,115,Bondo,1,MoH,638,Bondo District Hospital,1,29.9,1
+662,13589,Got Kojowi Health Center,104,Homabay- Ndhiwa,1,MoH,660,Ndhiwa Sub District Hospital,1,12.1,1
+585,0,GSN North,12,Starehe,8,NGO,578,KEMRI Immunology Lab HQs,1,0,1
+580,0,GSN West,9,Langata,8,NGO,578,KEMRI Immunology Lab HQs,1,0,1
+649,13594,Gucha District Hospital/ogembo,240,Gucha,1,MoH,646,Tabaka Mission Hospital,1,20.3,1
+686,13594,Gucha District Hospital/ogembo,240,Gucha,1,MoH,673,Kisii Level 5 Hospital,1,20.3,1
+608,13359,Hagadera Mission Hospital,89,Fafi,8,NGO,606,Garissa Provincial General Hospital,1,110,1
+654,13608,Homabay District Hospital,139,Homabay- Rangwe,1,MoH,(NULL),,0,0,1
+671,13606,HomaHills Hospital,139,Homabay,2,FBO,(NULL),,0,0,1
+906,14553,Huruma Health Centre,4,Laikipia East,0,,905,Nanyuki Cottage Hospital,1,0,1
+518,12972,Huruma NCCK,15,Kasarani,1,,513,Mathare North Health Centre,1,0,1
+675,13612,Ibeno Sub District Hospital,189,Kisii Central,1,MoH,673,Kisii Level 5 Hospital,1,14,1
+610,13369,Iftin Sub District Hosptial,21,Garissa,1,MoH,606,Garissa Provincial General Hospital,1,5.8,1
+1101,15899,Iguhu Distirct Hospital,202,Kakamega South,1,MoH,1080,Kakamega Provincial General Hospital,1,14.9,1
+376,12077,Ikanga Sub District Hospital,47,Mutomo,1,MoH,366,Kitui District Hospital,1,0,1
+443,12077,Ikanga Sub District Hospital,47,Mutomo,1,MoH,437,Mutomo Mission Hospital,1,0,1
+1087,15900,Ileho Health Cente,26,Kakemga East,1,MoH,1080,Kakamega Provincial General Hospital,1,0,1
+1163,15903,Inyali Dispensary,194,Vihiga,1,MoH,1156,Vihiga District Hopital,1,0,1
+761,13625,Isebania Sub District Hospital,83,Kuria West,1,MoH,728,Migori District Hospital,1,21.8,1
+351,12727,Isiolo Samburu Complex,8,Isiolo,1,MoH,344,Isiolo District Hospital,1,37.3,1
+455,16653,Itheng'eli Dispensary,159,Mwingi,1,MoH,445,Mwingi District Hospital,1,0,1
+817,13638,Kabondo Health Center,62,Rachuonyo,1,MoH,816,Rachuonyo District Hospital,1,24.1,1
+1250,13641,Kadenge Ratuoro Health Center,133,Siaya- Alego,1,MoH,1244,Siaya District Hospital,1,9.4,1
+546,12997,Kahawa West Health Center,15,Kasarani,1,,539,Mathare Hospital,1,0,1
+871,14650,Kajiado AIC Dispensary,52,Kajiado,0,,869,Beacon of Hope Clinic,1,0,1
+432,12132,Kajunki Dispensary,46,Meru South,1,MoH,430,Chuka District Hospital,1,0,1
+1080,15915,Kakamega Provincial General Hospital,91,Kakamega Central,1,MoH,(NULL),,0,0,1
+1251,13648,Kaluo Health Centre,133,Siaya- Alego,1,MoH,1244,Siaya District Hospital,1,10.7,1
+818,13653,Kandiege Health Center,62,Rachuonyo,1,MoH,816,Rachuonyo District Hospital,1,35,1
+984,14792,Kaptumo Sub District Hospital,185,Nandi South,0,,975,Kapsabet District Hospital,1,50.3,1
+1037,15927,Karima Dispensary,283,Bungoma North,1,MoH,1036,Kimilili District hospital,1,20.6,1
+732,13656,Karungu Sub District Hospital,93,Migori,1,MoH,728,Migori District Hospital,1,0,1
+307,12203,Karurumo Rural Health Training Centre,125,Embu,1,MoH,304,Embu Provincial General Hospital,1,31.3,1
+547,13010,Kasarani Health Center,15,Kasarani,3,LA,539,Mathare Hospital,1,7.7,1
+379,12215,Katangi Health Center,239,Yatta,1,MoH,366,Kitui District Hospital,1,45.3,1
+394,12230,Kathiani District Hospital,38,Machakos,1,MoH,392,Machakos Level 5 Hospital,1,27.5,1
+412,12236,Kathonzweni Health Center,261,Makueni,1,MoH,411,Makueni District Hospital,1,21.9,1
+416,12235,Kathozweni Catholic Dispensary,261,Makueni,2,FBO,(NULL),,0,0,1
+797,13657,Katito Health Center,69,Nyando,1,MoH,794,Nyando District Hospital,1,7.3,1
+368,12255,Kauwi Sub District Hospital,257,Kitui,1,MoH,366,Kitui District Hospital,1,25.9,1
+395,12257,Kaviani Health Center,38,Machakos,1,MoH,392,Machakos Level 5 Hospital,1,9.8,1
+402,12263,Kavuthu Health Centre,37,Nzaui,1,MoH,392,Machakos Level 5 Hospital,1,0,1
+763,13663,Kegonga Health Center,225,Kuria East,1,MoH,728,Migori District Hospital,1,0,1
+579,13019,KEMRI Clinic,19,Dagoretti,1,MoH,578,KEMRI Immunology Lab HQs,1,0,1
+578,0,KEMRI Immunology Lab HQs,9,Langata,5,PAR,(NULL),,0,0,1
+588,18505,KEMRI/ UCSF,19,Dagoretti,8,NGO,587,CDC FACES- KEMRI Nairobi,1,0,1
+1194,13667,Kendu Adventist Mission Hospital,62,Rachuonyo,2,FBO,(NULL),,0,0,1
+1195,13667,Kendu Adventist(Homa Hill),62,Rachuonyo,2,FBO,1194,Kendu Adventist Mission Hospital,1,0,1
+1196,13667,Kendu Adventist(Mawego),62,Rachuonyo,2,FBO,1194,Kendu Adventist Mission Hospital,1,0,1
+1197,13667,Kendu Adventist(Wire SDA Dispe),62,Rachuonyo,2,FBO,1194,Kendu Adventist Mission Hospital,1,0,1
+819,13668,Kendu Sub District Hospital,62,Rachuonyo,1,MoH,816,Rachuonyo District Hospital,1,22,1
+664,13670,Kenya Accorn Health Center,104,Homabay- Ndhiwa,8,NGO,660,Ndhiwa Sub District Hospital,1,0,1
+545,13024,Kenyatta University Clinic,15,Kasarani,1,,539,Mathare Hospital,1,0,1
+650,17677,Kenyenya Sub District Hospital,240,Gucha,1,MoH,646,Tabaka Mission Hospital,1,58,1
+687,17677,Kenyenya Sub District Hospital,240,Gucha,1,MoH,673,Kisii Level 5 Hospital,1,58,1
+676,13680,Keumbu sub District Hospital,189,Kisii Central,1,MoH,673,Kisii Level 5 Hospital,1,12.9,1
+1058,15939,Khunyangu Sub-District Hospital,196,Busia,1,MoH,1050,Busia District Hospital- AMPATH,1,0,1
+310,12279,Kianjokoma sub District Hospital,125,Embu,1,MoH,304,Embu Provincial General Hospital,1,19.3,1
+584,13029,Kibera DO Clinic,9,Langata,0,,578,KEMRI Immunology Lab HQs,1,0,1
+420,19349,Kiboko Mission Hospital,261,Makueni,2,FBO,(NULL),,0,0,1
+699,13689,Kibos Prison Dispensary,36,Kisumu East,1,MoH,696,New Nyanza Provincial General hospital,1,6.2,1
+433,12288,Kibugua,46,Meru South,1,MoH,430,Chuka District Hospital,1,7.8,1
+33,10602,Kijabe Hospital(Githunguri),29,Kiambu West,2,FBO,32,AIC Kijabe Mission Hosiptal,1,0,1
+35,10602,Kijabe Hospital(Njabini),29,Kiambu West,2,FBO,32,AIC Kijabe Mission Hosiptal,1,0,1
+36,10602,Kijabe Hospital(Thigio),29,Kiambu West,2,FBO,32,AIC Kijabe Mission Hosiptal,1,0,1
+80,0,Kimorori CBO,45,Kirinyaga,2,FBO,75,Mwea Mission Hospital,1,0,1
+889,14897,Kipkelion Sub Hospital,165,Kipkelion,0,,881,Kericho District Hospital,1,0,1
+399,12341,Kisau Health Center,275,Mbooni,1,MoH,392,Machakos Level 5 Hospital,1,28,1
+673,13703,Kisii Level 5 Hospital,189,Kisii,1,MoH,(NULL),,0,0,1
+700,13709,Kodiaga Health Center,36,Kisumu East,1,MoH,696,New Nyanza Provincial General hospital,1,11.2,1
+1148,15953,Kolanya Salvation Army Dispensary,94,Teso,1,MoH,1136,Alupe Sub District Hospital,1,79.5,1
+809,13719,Koru Mission Health Center,69,Nyando,2,FBO,808,Nyabondo District Hospital,1,57.7,1
+997,15002,Kurankurik dispensary,216,Trans Mara,0,,994,Trans Mara (Kilgoris) District Hospital,1,0,1
+799,13727,Kusa Health Center,69,Nyando,1,MoH,794,Nyando District Hospital,1,10.4,1
+623,13392,Lafey Sub District Hospital,87,Mandera East,1,MoH,606,Garissa Provincial General Hospital,1,600,1
+425,16215,Laisamis Mission Hospital,243,Laisamis,2,FBO,421,Tumaini Health Centre,1,97,1
+948,15009,Langa Langa Health Centre,7,Nakuru Central,0,,943,Nakuru Provincial General Hospital,1,4.3,1
+1115,15961,Likuyani Sub District Hospital,145,Lugari,1,MoH,1113,Lugari/ Lumakanda District Hospital,1,0,1
+844,14178,Litein mission hospital,72,Buret,1,MoH,840,Kapkatet District Hospital,1,0,1
+521,13203,Little sisters of Saint Francis,15,Kasarani,1,,513,Mathare North Health Centre,1,0,1
+605,13050,Liverpool VCT and Care,13,Nairobi West- Westlands,8,NGO,(NULL),,0,0,1
+910,15051,Loitoktok District Hospital,103,Loitoktok,0,,(NULL),,0,0,1
+426,12433,Loiyangani MH,243,Laisamis,2,FBO,421,Tumaini Health Centre,1,253,1
+996,15068,Lolgorian Sub District Hospital,216,Trans Mara,0,,994,Trans Mara (Kilgoris) District Hospital,1,0,1
+824,15077,Longisa District Hospital,170,Bomet,1,MoH,973,,0,0,1
+1113,15969,Lugari/ Lumakanda District Hospital,145,Lugari,1,MoH,(NULL),,0,0,1
+709,13738,Lumumba Health Centre (Faces),36,Kisumu East,3,LA,(NULL),,0,0,1
+286,11526,Lunga Lunga Dispensary,144,Msambweni,1,MoH,282,Bomu Medical Centre,1,0,1
+1206,13739,Lwak Mission Hospital (St. Elizabeth),25,Rarieda,2,FBO,(NULL),,0,0,1
+735,13745,Macalder Sub District Hospital,93,Migori,1,MoH,728,Migori District Hospital,1,32.1,1
+1199,13747,Madiany Sub District Hospital,25,Rarieda,1,MoH,(NULL),,0,0,1
+640,13750,Mageta,115,Bondo,1,MoH,638,Bondo District Hospital,1,35,1
+1039,15992,Makutano Dispensary,283,Bungoma North,1,MoH,1036,Kimilili District hospital,1,48.3,1
+1059,15995,Malanga Dispensary,196,Busia,1,MoH,1050,Busia District Hospital- AMPATH,1,42.8,1
+1094,15996,Malava Sub District Hospital,214,Kakamega North,1,MoH,1080,Kakamega Provincial General Hospital,1,26.4,1
+1066,15999,Manyala Sub District Hospital,119,Butere,1,MoH,1062,Butere District Hospital,1,8.2,1
+717,13770,Manyuanda Health Centre,127,Kisumu West,1,MoH,715,Kombewa District Hospital,1,0,1
+988,15126,Maralal Hospital,84,Samburu,0,,(NULL),,0,0,1
+678,13772,Marani Sub District Hospital,189,Kisii Central,1,MoH,673,Kisii Level 5 Hospital,1,16.5,1
+656,13777,Marindi Dispensary,139,Homabay- Rangwe,1,MoH,654,Homabay District Hospital,1,18.7,1
+1219,13778,Mariwa Health Center,278,Rongo,1,MoH,1217,Rongo District Hospital,1,63.1,1
+907,15148,Mary immaculate Dispensary (Lakipia East),4,Laikipia East,0,,905,Nanyuki Cottage Hospital,1,0,1
+762,13779,Masaba Health Center,83,Kuria West,1,MoH,728,Migori District Hospital,1,14.5,1
+1067,13779,Masaba Mission Hospital,119,Butere,1,MoH,1062,Butere District Hospital,1,0,1
+722,13781,Maseno Hospital(Esiola),127,Kisumu,2,FBO,721,Maseno Mission Hospital,1,0,1
+723,13781,Maseno Hospital(Kerongo),127,Kisumu,2,FBO,721,Maseno Mission Hospital,1,0,1
+724,13781,Maseno Hospital(Mariwa),127,Kisumu,2,FBO,721,Maseno Mission Hospital,1,0,1
+725,13781,Maseno Hospital(Miranga),127,Kisumu,2,FBO,721,Maseno Mission Hospital,1,0,1
+726,13781,Maseno Hospital(Mukhalakhala),127,Kisumu,2,FBO,721,Maseno Mission Hospital,1,0,1
+727,13781,Maseno Hospital(Vigina),127,Kisumu,2,FBO,721,Maseno Mission Hospital,1,0,1
+362,12475,Masii Health Center,263,Mwala,1,MoH,352,Kangundo District Hospital,1,0,1
+693,13783,Masimba Sub district hospital,219,Masaba,1,MoH,673,Kisii Level 5 Hospital,1,36.2,1
+1252,16787,Masumbi Disepnsary,133,Siaya- Alego,1,MoH,1244,Siaya District Hospital,1,0,1
+641,13787,Matangwe Health Centre,115,Bondo,1,MoH,638,Bondo District Hospital,1,8.6,1
+1198,13789,Matata Nursing Home,62,Rachuonyo,2,FBO,1194,Kendu Adventist Mission Hospital,1,1.1,1
+1060,16004,Matayos Helath Centre,196,Busia,1,MoH,1050,Busia District Hospital- AMPATH,1,0,1
+498,17657,Mater(Makadara),61,Makadara,2,FBO,490,Mater Hospital,1,0,1
+459,12483,Mathuki Health Center,159,Mwingi,1,MoH,445,Mwingi District Hospital,1,41.5,1
+1233,17529,Matibabu Foundation (Ukwala),133,Siaya,2,FBO,(NULL),,0,0,1
+405,12485,Matiliiku District Hospital,37,Nzaui,1,MoH,392,Machakos Level 5 Hospital,1,39.1,1
+737,13793,Matoso Health Centre,93,Migori,1,MoH,728,Migori District Hospital,1,0,1
+779,13793,Matoso Mission Dispensary,93,Migori,2,FBO,778,St Josephs Mission Migori,1,0,1
+1006,16364,Matuanda Dispensary,112,Trans Nzoia West,0,,998,Kitale District Hospital,1,0,1
+1032,16389,Matulo Dispensary,184,Bungoma East,6,OPI,1008,Bungoma District Hospital,1,0,1
+356,16439,Matungulu Health Center,262,Kangundo,1,MoH,352,Kangundo District Hospital,1,10.2,1
+378,12488,Matuu Sub District Hospital,239,Yatta,1,MoH,366,Kitui District Hospital,1,66.4,1
+320,12492,Maua Methodist Mission Hospital,78,Igembe,2,FBO,(NULL),,0,0,1
+1166,16012,Mbale Rural Helath Training Centre,194,Vihiga,1,MoH,1156,Vihiga District Hopital,1,0,1
+316,16467,Mbeere District Hopsital,237,Mbeere,1,MoH,304,Embu Provincial General Hospital,1,35.6,1
+406,12499,Mbenuu Health Centre,37,Nzaui,1,MoH,392,Machakos Level 5 Hospital,1,0,1
+400,12508,Mbooni Sub District Hospital,275,Mbooni,1,MoH,392,Machakos Level 5 Hospital,1,40.4,1
+330,12516,Meru Central District Hospital,229,Meru Central,1,MoH,(NULL),,0,0,1
+332,12049,Meru GK Dispensary,46,Meru South,1,MoH,330,Meru Central District Hospital,1,1.7,1
+986,15181,Meteitei Sub District Hospital,234,Tinderet,0,,975,Kapsabet District Hospital,1,0,1
+276,11600,Mewa Hospital,16,Mombasa,2,FBO,(NULL),,0,0,1
+460,12523,Migwani Sub District Hospital,159,Mwingi,1,MoH,445,Mwingi District Hospital,1,32.9,1
+340,12526,Mikumbune SDH,227,Imenti South,1,MoH,330,Meru Central District Hospital,1,21.7,1
+1191,13812,Miriu Health Center,62,Rachuonyo,1,MoH,816,Rachuonyo District Hospital,1,25.2,1
+396,12530,Mitaboni Health Center,38,Machakos,1,MoH,392,Machakos Level 5 Hospital,1,16.5,1
+616,13411,Modogashe Sub District Hospital,43,Ladgera,1,MoH,606,Garissa Provincial General Hospital,1,161,1
+848,15204,Moi Teaching and Referral Hospital,74,Eldoret East,0,,(NULL),,0,0,1
+292,11641,Moi Voi District Hosiptal,209,Taita,1,MoH,(NULL),,0,0,1
+856,15209,Moi's Bridge Health Centre,14,Eldoret West,0,,848,Moi Teaching and Referral Hospital,1,48.9,1
+914,15212,Molo District Hospital,126,Molo,0,,(NULL),,0,0,1
+846,15220,Monirre Medical Centre,72,Buret,1,MoH,840,Kapkatet District Hospital,1,0,1
+274,11649,Mpeketoni Sub District Hospital,161,Lamu,1,MoH,1190,Malindi District Hospital,1,0,1
+181,10739,Mt. Kenya District Hospital,23,Nyeri South,1,MoH,180,Nyeri Provincial General Hospital,1,4.5,1
+384,12547,Mtito Andei Health Center,20,Kibwezi,1,MoH,381,Makindu District Hospital,1,61.1,1
+802,13832,Muhororni Sugar Factory,69,Nyando,6,OPI,794,Nyando District Hospital,1,50.2,1
+485,13100,Mukuru Rueben,61,Makadara,3,LA,476,Lunga Lunga Health Centre,1,0,1
+1023,16042,Mung'ung'u Dispensary,71,Mumias,1,MoH,1008,Bungoma District Hospital,1,0,1
+1130,16042,Mung'ung'u Dispensary,71,Mumias,1,MoH,1121,St Mary's Mission Hospital,1,0,1
+364,12593,Muthetheni Health Center,263,Mwala,1,MoH,352,Kangundo District Hospital,1,0,1
+1095,16054,Muting'ongo Dispensary,214,Kakamega North,1,MoH,1080,Kakamega Provincial General Hospital,1,0,1
+373,12601,Mutitu Sub District Hospital,257,Kitui,1,MoH,366,Kitui District Hospital,1,0,1
+437,12604,Mutomo Mission Hospital,47,Mutomo,2,FBO,(NULL),,0,0,1
+438,12604,Mutomo(Athi),47,Mutomo,2,FBO,437,Mutomo Mission Hospital,1,0,1
+439,12604,Mutomo(Kamutei),47,Mutomo,2,FBO,437,Mutomo Mission Hospital,1,0,1
+440,12604,Mutomo(Kanziko),47,Mutomo,2,FBO,437,Mutomo Mission Hospital,1,0,1
+441,12604,Mutomo(Mathima),47,Mutomo,2,FBO,437,Mutomo Mission Hospital,1,0,1
+442,12604,Mutomo(Mutha),47,Mutomo,2,FBO,437,Mutomo Mission Hospital,1,0,1
+1070,16055,Mutsesta Dispensary,119,Butere,1,MoH,1062,Butere District Hospital,1,0,1
+568,13105,Mutuini Sub-District Hospital,13,Westlands,1,,554,National HIV Reference Lab,1,0,1
+923,15280,Naivasha District Hospital,117,Naivasha,0,,(NULL),,0,0,1
+943,15288,Nakuru Provincial General Hospital,7,Nakuru,0,,(NULL),,0,0,1
+1096,0,Namaraga Dispensary,214,Kakamega North,1,MoH,1080,Kakamega Provincial General Hospital,1,0,1
+1135,16065,Namasoli ACK Mission,71,Mumias,2,FBO,(NULL),,0,0,1
+1188,16072,Nangina Dispensary,64,Samia,1,MoH,1186,Sio Port District Hospital,1,0,1
+555,0,National Blood Transfusion Centre,19,Dagoretti,5,PAR,554,National HIV Reference Lab,1,0,1
+554,0,National HIV Reference Lab,19,Nairobi West Dagoretti,5,PAR,(NULL),,0,0,1
+1086,16078,Navakholo Sub District hospital,91,Kakemga Central,1,MoH,1080,Kakamega Provincial General Hospital,1,22.3,1
+38,10825,Nazareth(Kahawa Wendani),29,Kiambu West,2,FBO,37,Nazareth Mission Hospital,1,0,1
+39,10825,Nazareth(Kivuli),29,Kiambu West,2,FBO,37,Nazareth Mission Hospital,1,0,1
+40,10825,Nazareth(Korogocho),29,Kiambu West,2,FBO,37,Nazareth Mission Hospital,1,0,1
+43,10825,Nazareth(Sacred Heart),29,Kiambu West,2,FBO,37,Nazareth Mission Hospital,1,0,1
+44,10825,Nazareth(Tinganga),29,Kiambu West,2,FBO,37,Nazareth Mission Hospital,1,0,1
+45,10825,Nazareth(Westlands),29,Kiambu West,2,FBO,37,Nazareth Mission Hospital,1,0,1
+836,15322,Ndanai Health Centre,129,Sotik,1,MoH,824,Longisa District Hospital,1,54.2,1
+660,13841,Ndhiwa Sub District Hospital,104,Homabay- Ndhiwa,1,MoH,(NULL),,0,0,1
+657,13843,Ndiru Health Center,139,Homabay- Rangwe,1,MoH,654,Homabay District Hospital,1,29.8,1
+696,13939,New Nyanza Provincial General hospital,36,Kisumu East,1,MoH,(NULL),,0,0,1
+525,13121,Ngaira Health Centre,15,Kasarani,1,,523,STC Casino Clinic,1,0,1
+527,13122,Ngara HC,15,Kasarani,1,,523,STC Casino Clinic,1,0,1
+1221,13850,Ngere Dispensray,278,Rongo,1,MoH,1217,Rongo District Hospital,1,3.4,1
+1222,13853,Ngodhe,278,Rongo,1,MoH,1217,Rongo District Hospital,1,46.8,1
+878,15351,Ngong Sub District Hospital,52,Kajiado,0,,873,Kajiado District Hospital,1,22.1,1
+358,12657,Nguluni Health Center,262,Kangundo,1,MoH,352,Kangundo District Hospital,1,10.2,1
+1035,16712,Ngwelo Dispensary,184,Bungoma East,6,OPI,1008,Bungoma District Hospital,1,0,1
+429,12668,North Horr Health Center,192,Chalbi,2,FBO,421,Tumaini Health Centre,1,181,1
+764,13858,Ntimaru Health Center,225,Kuria East,1,MoH,728,Migori District Hospital,1,0,1
+461,12681,Nuu Health Center,159,Mwingi,1,MoH,445,Mwingi District Hospital,1,58.6,1
+808,13864,Nyabondo District Hospital,69,Nyando,2,FBO,(NULL),,0,0,1
+812,13864,Nyabondo Missio(Bolo),69,Nyando,0,,808,Nyabondo District Hospital,1,0,1
+813,13864,Nyabondo Missio(Oriang),69,Nyando,0,,808,Nyabondo District Hospital,1,0,1
+651,13867,Nyacheki Sub District Hospital,240,Gucha,1,MoH,646,Tabaka Mission Hospital,1,0,1
+688,13867,Nyacheki Sub District Hospital,240,Gucha,1,MoH,673,Kisii Level 5 Hospital,1,0,1
+810,13881,Nyakach AIC Dispensary,69,Nyando,2,FBO,808,Nyabondo District Hospital,1,24,1
+201,0,Nyakio Womens Group-Mweiga,23,Nyeri South,1,MoH,180,Nyeri Provincial General Hospital,1,17.4,1
+793,13884,Nyakongo Health Center,69,Nyando,1,MoH,789,Ahero District Hospital,1,24,1
+652,13891,Nyamache Sub District Hospital,240,Gucha,1,MoH,646,Tabaka Mission Hospital,1,24.2,1
+689,13891,Nyamache Sub District Hospital,240,Gucha,1,MoH,673,Kisii Level 5 Hospital,1,24.2,1
+786,13894,Nyamaiya Health Center,188,Nyamira,1,MoH,782,Nyamira District Hospital,1,14.8,1
+787,13916,Nyamusi Health Center,188,Nyamira,1,MoH,782,Nyamira District Hospital,1,16.7,1
+803,13928,Nyangoma Health Center,69,Nyando,1,MoH,794,Nyando District Hospital,1,31.5,1
+642,13929,Nyangoma Health Center (Bondo),115,Bondo,1,MoH,638,Bondo District Hospital,1,12.1,1
+1258,,Nyangoma Kogero Health Center,133,Siaya- Alego,1,MoH,1244,Siaya District Hospital,1,13.8,1
+783,13937,Nyansiongo Health Center,2,Borabu,1,MoH,782,Nyamira District Hospital,1,11.2,1
+202,10904,Nyeri Surgicare Clinic,23,Nyeri South,1,MoH,180,Nyeri Provincial General Hospital,1,0,1
+203,10905,Nyeri Town VCT,23,Nyeri South,1,MoH,180,Nyeri Provincial General Hospital,1,0,1
+595,13131,Nyumbani Children's Home,9,Nairobi West- Langata,0,,(NULL),,0,0,1
+811,13968,Ogra Foundation,69,Nyando,8,NGO,808,Nyabondo District Hospital,1,0,1
+748,16277,Ondong Dispensary,93,Migori,1,MoH,728,Migori District Hospital,1,0,1
+1203,13987,Ong'ielo Dispensary,25,Rarieda,1,MoH,1199,Madiany Sub District Hospital,1,27.9,1
+1193,14002,Othoro Health Center,62,Rachuonyo,1,MoH,816,Rachuonyo District Hospital,1,27.7,1
+1204,14013,Pap Kodero Health Center,25,Rarieda,1,MoH,1199,Madiany Sub District Hospital,1,0,1
+751,14014,Pastor Machege Memorial Hospital,93,Migori,0,PRI,728,Migori District Hospital,1,0,1
+387,11970,PCEA Chogoria H(KIANGONDU),154,Maara,2,FBO,386,Chogoria (PCEA) Hospital,1,0,1
+388,11970,PCEA Chogoria H(KIROGINE),154,Maara,2,FBO,386,Chogoria (PCEA) Hospital,1,0,1
+389,11970,PCEA Chogoria H(ST. ANNS),154,Maara,2,FBO,386,Chogoria (PCEA) Hospital,1,0,1
+47,10603,PCEA Kikuyu(Embulbul),29,Kiambu West,2,FBO,46,Kikuyu PCEA Hospital,1,0,1
+48,10603,PCEA Kikuyu(Gachie),29,Kiambu West,2,FBO,46,Kikuyu PCEA Hospital,1,0,1
+49,10603,PCEA Kikuyu(Kiserian),29,Kiambu West,2,FBO,46,Kikuyu PCEA Hospital,1,0,1
+50,10603,PCEA Kikuyu(Uthiru),29,Kiambu West,2,FBO,46,Kikuyu PCEA Hospital,1,0,1
+51,10603,PCEA Kikuyu(Wangige),29,Kiambu West,2,FBO,46,Kikuyu PCEA Hospital,1,0,1
+712,14017,Port Florence Community Hospital,36,Kisumu East,2,FBO,(NULL),,0,0,1
+816,14022,Rachuonyo District Hospital,62,Rachuonyo,1,MoH,(NULL),,0,0,1
+659,14036,Rangwe Sub District Hospital,139,Homabay- Rangwe,1,MoH,654,Homabay District Hospital,1,24.4,1
+853,0,Regional Blood tranfusion Centre,74,Eldoret East,0,,848,Moi Teaching and Referral Hospital,1,0,1
+1240,14042,Rera Health Center,133,Siaya- Gem,1,MoH,1234,Yala Sub District Hospital,1,27.9,1
+622,13423,Rhamu Sub District Hospital,187,Mandera Central,1,MoH,606,Garissa Provincial General Hospital,1,720,1
+524,13163,Rhodes,15,Kasarani,1,,523,STC Casino Clinic,1,0,1
+752,14047,Riat Dispensary,93,Migori,1,MoH,728,Migori District Hospital,1,69.1,1
+337,12717,Ruiri Rural Health Demonstration Centre,57,Imenti North,1,MoH,330,Meru Central District Hospital,1,13.1,1
+81,0,Saikaka CBO,45,Kirinyaga,2,FBO,75,Mwea Mission Hospital,1,0,1
+804,14066,Sangorota Health Center,69,Nyando,1,MoH,794,Nyando District Hospital,1,14.5,1
+1231,14073,Sega Helath Centre,133,Siaya- Ugenya,8,NGO,1228,Ambira Sub District Hospital,1,14.9,1
+349,12729,Sericho Health Centre,141,Garbatula,1,MoH,344,Isiolo District Hospital,1,0,1
+1105,16107,Shibwe Health Centre,202,Kakamega South,1,MoH,1080,Kakamega Provincial General Hospital,1,16.4,1
+805,14086,Sigoti Health Center,69,Nyando,1,MoH,794,Nyando District Hospital,1,4.6,1
+1186,16128,Sio Port District Hospital,64,Samia,1,MoH,(NULL),,0,0,1
+987,15601,Sobar river Health Centre,234,Tinderet,0,,975,Kapsabet District Hospital,1,25,1
+806,14096,Sondu Health Center,69,Nyando,1,MoH,794,Nyando District Hospital,1,17.6,1
+766,14103,St Camillus Kar(Kiasa Ratanga),93,Migori,2,FBO,765,St Camillus karungu,1,55,1
+767,14103,St Camillus Kar(Lwanda Gwassi),93,Migori,2,FBO,765,St Camillus karungu,1,63,1
+768,14103,St Camillus Kar(Mirogi),93,Migori,2,FBO,765,St Camillus karungu,1,0,1
+769,14103,St Camillus Kar(Osani),93,Migori,2,FBO,765,St Camillus karungu,1,60,1
+770,14103,St Camillus Kar(Otati),93,Migori,2,FBO,765,St Camillus karungu,1,0,1
+771,14103,St Camillus Kar(Tagache),93,Migori,2,FBO,765,St Camillus karungu,1,0,1
+772,14103,St Camillus Kar(Wath Onger),93,Migori,2,FBO,765,St Camillus karungu,1,75,1
+765,14103,St Camillus karungu,93,Migori,2,FBO,(NULL),,0,0,1
+1297,15634,St Catherine's Napetet Dispensary,50,Turkana Central,0,,1292,Lodwar District Hospital,1,0,1
+1106,16030,St Elizabeth Mukumu,26,Kakamega,2,FBO,(NULL),,0,0,1
+1111,0,St Elizabeth(Forest Dispens),202,Kakamega South,2,FBO,1106,St Elizabeth Mukumu,1,0,1
+1112,16053,St Elizabeth(Musoli dispens),202,Kakamega South,2,FBO,1106,St Elizabeth Mukumu,1,0,1
+532,13202,St Francis Catholic Dispensary (Nairobi North),15,Nairobi North- Kasarani,2,FBO,(NULL),,0,0,1
+778,14110,St Josephs Mission Migori,93,Migori,2,FBO,(NULL),,0,0,1
+297,11817,St Joseph's Shelter Of Hope,209,Taita,2,FBO,292,Moi Voi District Hosiptal,1,0,1
+1284,14116,St Luke's Health Centre,259,Suba,2,FBO,1264,Suba (Sindo) District Hospital,1,0,1
+280,11818,St Lukes Hospi(JIBANA),68,Kaloleni,2,FBO,276,Mewa Hospital,1,0,1
+281,11818,St Lukes Hospi(MAKANZANI),68,Kaloleni,2,FBO,276,Mewa Hospital,1,0,1
+496,11818,St Lukes Kaloleni,61,Makadara,2,FBO,490,Mater Hospital,1,0,1
+1155,16140,St Mary Health Unit,94,Teso,1,MoH,1136,Alupe Sub District Hospital,1,0,1
+1285,14119,St Mary's Dispensary (Suba),259,Suba,2,FBO,1264,Suba (Sindo) District Hospital,1,0,1
+1298,15656,St Mary's Kalokol Primary Health Care Prog,50,Turkana Central,0,,1292,Lodwar District Hospital,1,0,1
+591,13218,St Mary's Mission Hospital,9,Langata,2,FBO,(NULL),,0,0,1
+1121,16141,St Mary's Mission Hospital,71,Mumias,2,FBO,(NULL),,0,0,1
+938,15654,St Mary's Mission Hospital(elementaita),117,Naivasha,0,,(NULL),,0,0,1
+1242,16418,St Mary's Yala Dispensary,133,Siaya- Gem,2,FBO,1234,Yala Sub District Hospital,1,0,1
+713,14120,St Monica(St Monica),36,Kisumu East,2,FBO,712,Port Florence Community Hospital,1,5.7,1
+1299,15661,St Monica's Nakwamekwi Dispensary,50,Turkana Central,0,,1292,Lodwar District Hospital,1,0,1
+463,12769,St Orsola Mission Hospital- Dream Materi,253,Tharaka,1,,(NULL),,0,0,1
+1300,15662,St Patrick's Kanamkemer Dispensary,50,Turkana Central,0,,1292,Lodwar District Hospital,1,0,1
+501,13226,St Teresa's Dispensary,42,Eastleigh North,2,FBO,499,Pumwani Maternity Hospital,1,0,1
+773,13462,St. Akidiva,93,Migori,2,FBO,765,St Camillus karungu,1,58,1
+774,14103,St. Camillus Ta(Etago),93,Migori,2,FBO,765,St Camillus karungu,1,0,1
+775,14103,St. Camillus Ta(Lwala),93,Migori,2,FBO,765,St Camillus karungu,1,46,1
+776,14103,St. Camillus Ta(Rakwaro),93,Migori,2,FBO,765,St Camillus karungu,1,75,1
+777,14103,St. Camillus Ta(Tabaka),93,Migori,2,FBO,765,St Camillus karungu,1,2,1
+780,14103,St. Josephs Mis(Arombe),93,Migori,2,FBO,778,St Josephs Mission Migori,1,0,1
+781,14103,St. Josephs Mis(Ulanda),93,Migori,2,FBO,778,St Josephs Mission Migori,1,0,1
+279,11818,St. Lukes Hospital,68,Kaloleni,2,FBO,276,Mewa Hospital,1,0,1
+1262,14124,St. Paul Health Centre,133,Siaya- Alego,2,FBO,1244,Siaya District Hospital,1,6.9,1
+1109,16050,St. Phillips Mukomari,26,Kakamega East,2,FBO,1106,St Elizabeth Mukumu,1,0,1
+814,14128,St. Vincent De Pauls Mission Hospital,69,Nyando,2,FBO,(NULL),,0,0,1
+523,13153,STC Casino Clinic,15,Nairobi North- Kasarani,1,MoH,(NULL),,0,0,1
+1264,14130,Suba (Sindo) District Hospital,259,Suba,1,,(NULL),,0,0,1
+755,14135,Suna Rabour Dispensary,93,Migori,1,MoH,728,Migori District Hospital,1,0,1
+807,14141,Tamu Health Center,69,Nyando,1,MoH,794,Nyando District Hospital,1,45.7,1
+303,11840,Taveta District Hospital,209,Taveta,1,MoH,392,,0,0,1
+401,12787,Tawa Sub-District Hospital,275,Mbooni,1,MoH,392,Machakos Level 5 Hospital,1,32.1,1
+398,12796,Thinu Health Center,38,Machakos,1,MoH,392,Machakos Level 5 Hospital,1,15.2,1
+329,12799,Tigania Mission Hospital,105,Tigania,2,FBO,321,Consolata Nkubu Hospital- Dream Kyeni,1,30.8,1
+338,12802,Timau Sub- District Hospital,57,Imenti North,1,MoH,330,Meru Central District Hospital,1,52.3,1
+788,14146,Tinga Health Center,188,Nyamira,1,MoH,782,Nyamira District Hospital,1,9.1,1
+994,15739,Trans Mara (Kilgoris) District Hospital,216,Trans Mara,0,,(NULL),,0,0,1
+462,12805,Tseikuru Sub District Hospital,159,Mwingi,1,MoH,445,Mwingi District Hospital,1,92.8,1
+421,16204,Tumaini Health Centre,142,Marsabit,2,FBO,(NULL),,0,0,1
+167,11124,Tumutumu(Gatithi),269,Nyeri North (Mathira),2,FBO,160,Tumutumu PCEA Hospital,1,0,1
+168,11124,Tumutumu(Ichamara),269,Nyeri North (Mathira),2,FBO,160,Tumutumu PCEA Hospital,1,0,1
+169,11124,Tumutumu(Kiaruhiu),269,Nyeri North (Mathira),2,FBO,160,Tumutumu PCEA Hospital,1,0,1
+170,11124,Tumutumu(Kiburu),269,Nyeri North (Mathira),2,FBO,160,Tumutumu PCEA Hospital,1,0,1
+171,11124,Tumutumu(Ngorano),269,Nyeri North (Mathira),2,FBO,160,Tumutumu PCEA Hospital,1,0,1
+172,11124,Tumutumu(Njoki -ini),269,Nyeri North (Mathira),2,FBO,160,Tumutumu PCEA Hospital,1,0,1
+82,11124,Umoja CBO,45,Kirinyaga,2,FBO,75,Mwea Mission Hospital,1,0,1
+1263,14161,Uriri Health Center,133,Siaya- Alego,1,MoH,1244,Siaya District Hospital,1,24.4,1
+1156,16157,Vihiga District Hopital,194,Vihiga,1,MoH,(NULL),,0,0,1
+557,13249,Waithaka Health Center,19,Dagoretti,3,LA,554,National HIV Reference Lab,1,12.2,1
+146,11158,Wakamara Health Centre,269,Nyeri North (Mathira),1,MoH,137,Karatina District Hospital,1,8.1,1
+890,0,"Walter Reed Project, Kericho",75,Kericho,0,,(NULL),,0,0,1
+1025,16160,Webuye District Hospital,184,Bungoma East,1,MoH,1008,Bungoma District Hospital,1,88.8,1
+565,13259,Woodley Health Centre,13,Westlands,1,,554,National HIV Reference Lab,1,0,1
+1234,14175,Yala Sub District Hospital,133,Siaya- Gem,1,MoH,(NULL),,0,0,1
+973,0,,0,Nandi,0,,392,,1,0,1
+1051,0,,196,Busia,1,,392,,1,0,1

@@ -1,0 +1,86 @@
+<style type="text/css">
+.glossymenu {
+	padding: 0;
+	width: 1280px; /*width of menu*/
+	border: 0px solid #9A9A9A;
+	border-bottom-width: 0px;
+	margin-top: 5px;
+	margin-right: 0;
+	margin-bottom: 5px;
+	margin-left: 0;
+}
+
+.glossymenu a.menuitem {
+	/*background: black url(img/skinB_header.png) repeat-x bottom left;*/
+	background-color:#F9F9F9;
+	border-top: 1px solid #DDD;
+	font: bold 14px "Lucida Grande", "Cambria", Verdana, Helvetica,
+		sans-serif;
+	color: black;
+	display: block;
+	position: relative;
+	/*To help in the anchoring of the ".statusicon" icon image*/
+	width: 950px;
+	padding: 4px 0;
+	padding-left: 10px;
+	text-decoration: none;
+}
+
+.glossymenu a.menuitem:visited,.glossymenu .menuitem:active {
+	color: black;
+}
+
+.glossymenu a.menuitem .statusicon {
+	/*CSS for icon image that gets dynamically added to headers*/
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	border: none;
+}
+
+.glossymenu a.menuitem:hover {
+	/*background-image: url(glossyback2.gif);*/
+	
+}
+
+.glossymenu div.submenu { /*DIV that contains each sub menu*/
+	background: white;
+}
+
+.glossymenu div.submenu ul { /*UL of each sub menu*/
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.glossymenu div.submenu ul li {
+	border-bottom: 1px grey;
+}
+
+.glossymenu div.submenu ul li a {
+	display: block;
+	font: normal 13px "Lucida Grande", "Trebuchet MS", Verdana, Helvetica,
+		sans-serif;
+	color: black;
+	text-decoration: none;
+	padding: 2px 0;
+	padding-left: 10px;
+}
+
+.glossymenu div.submenu ul li a:hover {
+	background: #DFDCCB;
+	colorz: white;
+}
+
+.style6 {
+	font-size: 12px
+}
+
+.style7 {
+	font-weight: bold
+}
+
+.style8 {
+	font-weight: bold
+}
+</style>
