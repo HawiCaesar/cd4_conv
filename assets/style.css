@@ -1,0 +1,226 @@
+/* CSS Document */
+
+body{
+	margin:34 0 0;
+	background:url(images/back-strip.gif) repeat-x top #ECF3F6;
+}
+
+#hoverDiv { color: #3399FF;}
+.text, div, p{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:normal;
+	font-size:11px;
+	color:#076B88;	
+}
+.select
+{
+    BACKGROUND: #FFFFFF;
+    BORDER: 1px solid #076B88;
+    COLOR: #076B88;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 8pt;    
+}
+
+.header{
+	height:118px;
+	background:url(images/header-strip.gif) repeat-x top #FFF;
+}
+.infosoftlogo{
+	padding:0px 0px 0px 10px;
+}
+.FAlogo{
+	padding:0px 5px 0px 0px;
+}
+.heading{
+	padding:0px 10px 0px 0px;
+}
+
+.nav{
+    background:url(images/btn-up.gif) no-repeat left;
+    color:#076B88;
+    font-family:Tahoma, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight:bold;
+    
+}
+.nav-text-main{
+    background-repeat:no-repeat;
+    background-position:left;
+    font-family:Tahoma, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight:bold;
+    color:#076B88;
+}
+
+.body-part{
+	background-color:#fff;
+	border-left:1px solid #A5C6CE;
+	border-right:1px solid #A5C6CE;
+}
+.body-left{
+	
+	padding:7px;
+	padding-right:0px;
+	
+}
+.body-right{
+	padding:7px;
+
+}
+.right-container{
+	height:346px;
+	border:1px solid #B1B2AC;
+	background-color:#EDF4F7;
+	padding:3px;
+}
+.container{
+	padding:7px 7px 0px 7px;
+}
+.container-bottom{
+	padding:0px 7px 7px 7px;
+}
+
+.container-text{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#30507E;
+	padding :3px;
+	border:1px solid #B1B2AC;
+	background-color:#EDF4F7;
+}
+.left-container{
+	border:1px solid #fff;
+	background-color:#fff;
+	padding:1px;
+	height:350px;
+}
+.head-bg{
+	background-color:#AFCED9;
+	height:22px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight:bold;
+    color:#00577F;
+
+	}
+.footer{
+	height:50px;
+	background:url(images/footer-strip.gif) repeat-x top #CEE2E9;
+	border:1px solid #A5C6CE;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#325663;
+	line-height:18px;
+}
+a{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#325663;
+	line-height:18px;
+	text-decoration:none;
+}
+a:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#00BDFF;
+	line-height:18px;
+}
+
+
+
+
+
+
+.flightDataOld{
+	padding:2px;
+	
+	height:296px;
+	overflow:hidden;
+	background-color:#FFFFFF;
+	font:10px Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+.flightData{
+	padding:2px;
+	
+	height:0px;
+	overflow:auto;
+	background-color:#FFFFFF;
+	scrollbar-base-color: #FFFFFF;
+	scrollbar-arrow-color: #666666;
+	scrollbar-3dlight-color: #666666;
+	scrollbar-darkshadow-color: #666666;
+	scrollbar-face-color: #FFFFFF;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #FFFFFF;
+	scrollbar-track-color: #efefef;
+	font:10px Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+
+.fdTable{
+	width:100%;
+	background-color:#FFFFFF;
+}
+
+.tdFd{	border:1px solid #AFCED9;
+FILTER: progid:DXImageTransform.Microsoft.GradientWipe(GradientSize=0.15,wipestyle=1,motion=forward);
+}
+
+.fdDataBorder{
+height:2px;
+background-color:#FFFFFF;
+}
+.FDRT {
+	text-align:left;
+	vertical-align:middle;
+	line-height:18px;
+}
+.FDRowLight{
+
+overflow:hidden;
+background-color:#EDF4F7;
+}
+.FDRowDark{
+
+overflow:hidden;
+background-color:#dee7eb;
+}
+.FDLogo{
+	text-align:center;
+	vertical-align:middle;
+}
+.FDComp{
+padding-top:4px;
+vertical-align:top;
+font:bold 11px/15px Verdana, Arial, Helvetica, sans-serif ;
+
+overflow:hidden;
+}
+.FDFare{
+font: 10px/13px Verdana, Arial, Helvetica, sans-serif ;
+}
+.FDDuration{
+font:10px/13px Verdana, Arial, Helvetica, sans-serif ;
+}
+.FDFlights{
+vertical-align:top;
+font:9px/13px Verdana, Arial, Helvetica, sans-serif ;
+padding-bottom:4px;
+}
+
+.FDHeader{
+font:bold 11px/22px Verdana, Arial, Helvetica, sans-serif ;
+color:#f37e00;
+border-bottom:1px solid #AFCED;
+background-color:#FFFFFF;
+height:22px;
+
+overflow:hidden;
+border:none;
+}
