@@ -1,21 +1,29 @@
 <?php
   	// @require_once('phpmailer/class.phpmailer.php');	
 	//require_once("../includes/functions/commodityf.php");
-	include("../pdf/mpdf/mpdf.php");
-	require_once('../phpmailer/class.phpmailer.php');
-	require('../pdf/mysql_table.php');
+	include ("pdf/mpdf/mpdf.php");
+	require_once("phpmailer/class.phpmailer.php");
+	require("pdf/mysql_table.php");
 
 	$host="localhost";
 	$user="root";
-	$pass="";
+	$pass="FnP5FjbnMrzXCm";
 	$db="cd4";
 	//connect
 	$con=mysql_connect($host,$user,$pass);
 	//fetch db
 	$getDb=mysql_select_db($db,$con);
 
-	$previous_month=date('m')-1;
-	$year=date('Y');
+	if(date('m')==1)
+	{
+		$previous_month=12;
+		$year=date('Y')-1;
+	}
+	else
+	{
+		$previous_month=date('m')-1;
+		$year=date('Y');
+	}
 
 	$fromdate=$year.'-'.$previous_month.'-01';
 	$num_of_days=cal_days_in_month(CAL_GREGORIAN, $previous_month,$year);
@@ -165,7 +173,7 @@
 			$mpdf->WriteHTML($html_data);
 			try
 			{
-				$filename=$_SERVER['DOCUMENT_ROOT'].'/cd4/alerts/generated_fcdrr_reports/'.$result_fcdrr_list['name'].'.pdf';
+				$filename='c:/xampplite/htdocs/cd4/alerts/generated_fcdrr_reports/'.$result_fcdrr_list['name'].'.pdf';
 
 				$mpdf->Output($filename,'F');
 			}
@@ -192,12 +200,13 @@
 
 		$Addresses=array('lab@kemsa.co.ke');
 		$CC_addresses=array('omarabdi2@yahoo.com');
-		$BCC_addresses=array('tngugi@clintonhealthaccess.org');
+		$BCC_addresses=array('tngugi@clintonhealthaccess.org','brianhawi92@gmail.com');
 
 		$file_counter=0;
-		$dir=$_SERVER['DOCUMENT_ROOT'].'/cd4/alerts/generated_fcdrr_reports/';
+		$dir='c:/xampplite/htdocs/cd4/alerts/generated_fcdrr_reports/';
 		$dh = opendir($dir);
 
+		/* attach files */
         while ($file = readdir($dh) ) 
         {
         	if(!is_dir($file) && strpos($file, '.pdf')>0) { 
@@ -208,9 +217,9 @@
         }
         closedir($dh);
 
-  		// $Addresses=array('brianhawi92@gmail.com');
-		// $CC_addresses=array('brian.odhiambo932@gmail.com','kanyonga.nicholas@gmail.com');
-		// $BCC_addresses=array('tngugi@clintonhealthaccess.org','tngugi@gmail.com');
+  		//$Addresses=array('brianhawi92@gmail.com');
+		//$CC_addresses=array('brian.odhiambo932@gmail.com');
+		//$BCC_addresses=array('tngugi@clintonhealthaccess.org','tngugi@gmail.com');
 
 		foreach($Addresses as $ToAddress)
 		{
@@ -234,13 +243,18 @@
 		  echo "Mailer Error: " . $mail->ErrorInfo;
 		} else {
 		  echo "Message sent!";
+		  
+		  $files = glob($dir.'*'); // get all file names
+			foreach($files as $mfile){ // iterate files
+			  if(is_file($mfile))
+			    unlink($mfile); // delete file
+			}
 		}
+
+		
     				
 	}
 
-?>
-
-<?php	
 
 //function to display the individual  Reagents and consumables
 
@@ -248,7 +262,7 @@ function reagentsPrinta($cat,$fcdrrList) {
 
 	$host="localhost";
 	$user="root";
-	$pass="";
+	$pass="FnP5FjbnMrzXCm";
 	$db="cd4";
 	//connect
 	$con=mysql_connect($host,$user,$pass);
@@ -285,7 +299,7 @@ function getValues($fcdrrList,$reagent,$field){
 
 	$host="localhost";
 	$user="root";
-	$pass="";
+	$pass="FnP5FjbnMrzXCm";
 	$db="cd4";
 	//connect
 	$con=mysql_connect($host,$user,$pass);
@@ -305,7 +319,7 @@ function getValues($fcdrrList,$reagent,$field){
 function reagentCategoryPrinta($mfl,$fcdrrList) {
 	$host="localhost";
 	$user="root";
-	$pass="";
+	$pass="FnP5FjbnMrzXCm";
 	$db="cd4";
 	//connect
 	$con=mysql_connect($host,$user,$pass);
